@@ -111,7 +111,7 @@ h3 {
     gap: 20px;
     justify-content: center;
     font-size: 1rem;
-    max-width: 1000px;
+
 }
 
 .download a {
@@ -179,7 +179,7 @@ h3 {
 /* footer */
 .footer {
     background-color: hsl(220deg 17.65% 96.67%);
-    width: 100%;
+    width: 100vw;
     margin-top: 80px;
     display: flex;
     align-items: center;
